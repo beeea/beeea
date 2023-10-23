@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **beeea/beeea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Bea</a> 👋</h1>
+</div>
+
+## Sobre mi
+- 📲 Mobile developer
+- 💻 Currently working as a Jr Software Developer in Capgemini
+- 👀 Interested in Android Studio, Jetpack Compose, AR & VR
