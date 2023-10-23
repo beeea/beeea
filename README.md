@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 ## Sobre mi
 - 📲 Mobile developer
+- 🎓 Multimedia Engineer
 - 💻 Currently working as a Jr Software Developer in Capgemini
 - 👀 Interested in Android Studio, Jetpack Compose, AR & VR
