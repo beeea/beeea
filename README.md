@@ -13,11 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Bea</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://aristi.dev">Bea</a> 👋</h1>
 </div>
 
-## Sobre mi
+<p align="justify">
+<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="23%" height=auto align="right" alt="Computer">
+</p>
+
+## About me
 - 📲 Mobile developer
 - 🎓 Multimedia Engineer
 - 💻 Currently working as a Jr Software Developer in Capgemini
 - 👀 Interested in Android Studio, Jetpack Compose, AR & VR
+
+## Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,vscode,unity,js,html,css,php,eclipse,idea,github&perline=15&theme=dark)](https://skillicons.dev)
+
