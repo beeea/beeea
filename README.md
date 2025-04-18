@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://aristi.dev">Bea</a> 👋</h1>
+<h1 align="center">Hi, I'm <a>Bea</a> 👋</h1>
 </div>
 
 <p align="justify">
