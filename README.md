@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ## About me
 - 📲 Mobile developer
 - 🎓 Multimedia Engineer
-- 💻 Currently working as a Jr Software Developer in Capgemini
-- 👀 Interested in Android Studio, Jetpack Compose, AR & VR
+- 💻 Currently working in Ideable
+- 👀 Interested in Flutter, IA, Android, iOS.
 
 ## Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,vscode,unity,js,html,css,php,eclipse,idea,github&perline=15&theme=dark)](https://skillicons.dev)
