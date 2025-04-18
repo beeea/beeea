@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </p>
 
 ## About me
- 📲 Mobile developer
- 🎓 Multimedia Engineer
- 💻 Currently working in Ideable
- 👀 Interested in Flutter, IA, Android, iOS.
+- 📲 Mobile developer
+- 🎓 Multimedia Engineer
+- 💻 Currently working in Ideable
+- 👀 Interested in Flutter, IA, Android, iOS.
 
 ## Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,vscode,unity,js,html,css,php,eclipse,idea,github&perline=15&theme=dark)](https://skillicons.dev)
