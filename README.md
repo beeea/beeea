@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 👀 Interested in Flutter, IA, Android, iOS.
 
 ## Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,java,apple,vscode,postman,gitlab,html,css,idea,github&perline=15&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,apple,postman,figma,firebase,gitlab,vscode,gradle,idea,github&perline=15&theme=dark)](https://skillicons.dev)
 
