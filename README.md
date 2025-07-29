@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="23%" height=auto align="right" alt="Computer">
 </p>
 
-## About me
+<b>About me</b>
 - 📲 Mobile developer
 - 🎓 Multimedia Engineer
 - 💻 Currently working in Ideable
