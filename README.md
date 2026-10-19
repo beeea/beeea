@@ -18,15 +18,15 @@ De Figma a tienda: producto multiplataforma con arquitectura limpia, tests y un 
 ## Ahora
 
 - **Mobile Developer en [Ideable](https://ideable.net)** desde marzo de 2024. Apps Flutter para Android, iOS y Web, y módulos nativos Android en Kotlin.
-- En construcción: un **plugin de Flutter con canal nativo Android** y una **app Flutter offline-first** con tests, CI y release.
+- Compagino el trabajo con dos proyectos open source en Flutter: **[media_metadata_kit](https://github.com/beeea/media_metadata_kit)**, un plugin con canal nativo Android, y **[Estantería](https://github.com/beeea/estanteria)**, una app offline-first.
 
 ## Trabajo destacado
 
 | Proyecto | Stack | Qué hice |
 |---|---|---|
 | **App en producción · Ideable**<br><sub>2024 – hoy · Android · iOS · Web</sub> | Flutter · Riverpod · Kotlin · Figma · MCP | Maquetación pixel-perfect y evolución de una app en producción. Caso anonimizado por confidencialidad. |
-| **[Covid19 Valencia](https://github.com/beeea/Covid19)**<br><sub>2023 · Android</sub> | Java · SQLite · Material Design | Consulta de incidencia por municipio, búsqueda, base de datos local y registro de diagnósticos. |
-| **[SimpleVideoView](https://github.com/beeea/SimpleVideoView)**<br><sub>2023 · Android</sub> | Java · VideoView | Reproducción de vídeo con controles personalizados, estados de buffering y ciclo de vida. |
+| **[media_metadata_kit](https://github.com/beeea/media_metadata_kit)**<br><sub>2026 · Plugin Flutter · Android nativo</sub> | Dart · Kotlin · MethodChannel · Corrutinas | Plugin que lee metadatos, portadas y fotogramas de vídeo con `MediaMetadataRetriever`, sin FFmpeg. 30 tests Dart, 12 en Kotlin y ejemplo propio. |
+| **[Estantería](https://github.com/beeea/estanteria)**<br><sub>2026 · Android · iOS</sub> | Flutter · Riverpod · Drift · go_router | App offline-first con arquitectura limpia por capas: la base de datos local es la única fuente de verdad. 173 tests. |
 
 ## Stack
 
