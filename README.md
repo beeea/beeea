@@ -8,6 +8,7 @@ De Figma a tienda: producto multiplataforma con arquitectura limpia, tests y un 
 
 📍 Valencia, España · Abierta a oportunidades mid/senior · Remoto o híbrido
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-beeea.github.io-6C63FF?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://beeea.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz_Barber-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-barber-94a013228)
 [![Email](https://img.shields.io/badge/Email-beatrizbarberm@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:beatrizbarberm@gmail.com)
 
@@ -51,6 +52,6 @@ Ingeniera Multimedia con Matrícula de Honor en Aplicaciones para Dispositivos M
 
 ## Contacto
 
-¿Tienes una vacante mobile o un proyecto entre manos? Escríbeme a [beatrizbarberm@gmail.com](mailto:beatrizbarberm@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/beatriz-barber-94a013228).
+¿Tienes una vacante mobile o un proyecto entre manos? Escríbeme a [beatrizbarberm@gmail.com](mailto:beatrizbarberm@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/beatriz-barber-94a013228). El detalle de los proyectos está en [beeea.github.io](https://beeea.github.io).
 
 <sub>Open to mid/senior mobile roles in Spain · Remote or hybrid</sub>
