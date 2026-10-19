@@ -1,31 +1,56 @@
-<!--
-**beeea/beeea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
-<h1 align="center">Hi, I'm <a>Bea</a> 👋</h1>
+
+# Beatriz Barber
+
+**Mobile Developer · Flutter & Android nativo**
+
+De Figma a tienda: producto multiplataforma con arquitectura limpia, tests y un flujo de trabajo asistido por IA.
+
+📍 Valencia, España · Abierta a oportunidades mid/senior · Remoto o híbrido
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz_Barber-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-barber-94a013228)
+[![Email](https://img.shields.io/badge/Email-beatrizbarberm@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:beatrizbarberm@gmail.com)
+
 </div>
 
-<p align="justify">
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="23%" height=auto align="right" alt="Computer">
-</p>
+---
 
-<b>About me</b>
-- 📲 Mobile developer
-- 🎓 Multimedia Engineer
-- 💻 Currently working in Ideable
-- 👀 Interested in Flutter, IA, Android, iOS.
+## Ahora
 
-## Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,apple,postman,figma,firebase,gitlab,vscode,gradle,idea,github&perline=15&theme=dark)](https://skillicons.dev)
+- **Mobile Developer en [Ideable](https://ideable.net)** desde marzo de 2024. Apps Flutter para Android, iOS y Web, y módulos nativos Android en Kotlin.
+- En construcción: un **plugin de Flutter con canal nativo Android** y una **app Flutter offline-first** con tests, CI y release.
 
+## Trabajo destacado
+
+| Proyecto | Stack | Qué hice |
+|---|---|---|
+| **App en producción · Ideable**<br><sub>2024 – hoy · Android · iOS · Web</sub> | Flutter · Riverpod · Kotlin · Figma · MCP | Maquetación pixel-perfect y evolución de una app en producción. Caso anonimizado por confidencialidad. |
+| **[Covid19 Valencia](https://github.com/beeea/Covid19)**<br><sub>2023 · Android</sub> | Java · SQLite · Material Design | Consulta de incidencia por municipio, búsqueda, base de datos local y registro de diagnósticos. |
+| **[SimpleVideoView](https://github.com/beeea/SimpleVideoView)**<br><sub>2023 · Android</sub> | Java · VideoView | Reproducción de vídeo con controles personalizados, estados de buffering y ciclo de vida. |
+
+## Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-40C4FF?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## Experiencia
+
+- **Ideable** — Mobile Developer · 2024 – presente
+- **Capgemini** — Software Engineer · 2022 – 2024
+- **Universitat de València** — Grado en Ingeniería Multimedia · 2018 – 2022
+
+## Sobre mí
+
+Ingeniera Multimedia con Matrícula de Honor en Aplicaciones para Dispositivos Móviles. Me muevo entre Flutter y Android nativo, y cuido el detalle hasta que la interfaz queda exactamente como el diseño. Fuera del código: clarinete, animación y diseño.
+
+## Contacto
+
+¿Tienes una vacante mobile o un proyecto entre manos? Escríbeme a [beatrizbarberm@gmail.com](mailto:beatrizbarberm@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/beatriz-barber-94a013228).
+
+<sub>Open to mid/senior mobile roles in Spain · Remote or hybrid</sub>
