@@ -48,7 +48,7 @@ De Figma a tienda: producto multiplataforma con arquitectura limpia, tests y un 
 
 ## Sobre mí
 
-Ingeniera Multimedia con Matrícula de Honor en Aplicaciones para Dispositivos Móviles. Me muevo entre Flutter y Android nativo, y cuido el detalle hasta que la interfaz queda exactamente como el diseño. Fuera del código: clarinete, animación y diseño.
+Ingeniera Multimedia con Matrícula de Honor en Aplicaciones para Dispositivos Móviles. Me muevo entre Flutter y Android nativo, y cuido el detalle hasta que la interfaz queda exactamente como el diseño.
 
 ## Contacto
 
