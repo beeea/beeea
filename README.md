@@ -9,6 +9,7 @@ De Figma a tienda: producto multiplataforma con arquitectura limpia, tests y un 
 📍 Valencia, España · Abierta a oportunidades mid/senior · Remoto o híbrido
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-beeea.github.io-6C63FF?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://beeea.github.io)
+[![CV](https://img.shields.io/badge/CV-PDF-1F2937?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://beeea.github.io/cv.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz_Barber-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-barber-94a013228)
 [![Email](https://img.shields.io/badge/Email-beatrizbarberm@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:beatrizbarberm@gmail.com)
 
